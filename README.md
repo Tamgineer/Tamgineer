@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AethernetX
+- 💫 My main programming language is C#, but I can confidently work in C++ and JavaScript.
 - 👀 I’m interested in graphics programming, game devving, game engine devving, Ai, computer generated art and more!
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and working on my indie game
 - 📫 You can reach me through my twitter @AethernetX
 
 <!---
