@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AethernetX
+- 👋 Hi, I’m @Tamgineer
 - 💫 My main programming language is C++, but I can confidently work in C#, Java and JavaScript too.
 - 👀 I’m interested in graphics programming, game devving, game engine devving, Ai, computer generated art and more!
 - 🌱 I’m currently learning C++ and working on my own game engine and game
