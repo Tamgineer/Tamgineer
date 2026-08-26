@@ -1,4 +1,4 @@
-[![Tamgineer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamgineer&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Tamgineer's GitHub stats](https://github-stats-extended.vercel.app/api?username=tamgineer&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamgineer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @Tamgineer
